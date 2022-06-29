@@ -1,0 +1,27 @@
+
+ul {
+	float: right;
+}
+li{
+	display: inline-block;
+}
+li a{
+	text-decoration: none;
+	list-style-type: none;
+	margin: 23px ; 
+	font-size: 30px;
+	font-style: italic;
+	color: green;
+	font-size: 30px;
+}
+li a:hover{
+	color: #cc00ff;
+}
+
+.menu{
+  margin-top: 20%;
+  float: left;
+  
+  color: green;
+
+}
